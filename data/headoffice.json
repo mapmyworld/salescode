@@ -1,0 +1,16 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gurgaon ( HO )"
+      },
+      "geometry": {
+        "coordinates": [ 77.0293992269219, 28.46713588067425 ],
+        "type": "Point"
+      },
+      "id": 0
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mumbai"
+      },
+      "geometry": {
+        "coordinates": [ 
+		72.87773761948, 
+		19.08010420376 
+		],
+        "type": "Point"
+      },
+      "id": 0
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dubai"
+      },
+      "geometry": {
+        "coordinates": [ 
+		55.29126892454755, 
+		25.269721790579197 
+		],
+        "type": "Point"
+      },
+      "id": 1
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brazil"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.636619825730236,
+          -23.545514640614
+        ],
+        "type": "Point"
+      },
+      "id": 2
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mexico"
+      },
+      "geometry": {
+        "coordinates": [
+          -99.73370386185455,
+          19.651612173733852
+        ],
+        "type": "Point"
+      },
+      "id": 3
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "New Zealand"
+      },
+      "geometry": {
+        "coordinates": [
+          174.76212389127858,
+          -36.84993841422018
+        ],
+        "type": "Point"
+      },
+      "id": 4
+    }
+	]
+}

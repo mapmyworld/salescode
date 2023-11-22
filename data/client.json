@@ -1,0 +1,257 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Australia"
+      },
+      "geometry": {
+        "coordinates": [
+          134.49870765036303,
+          -25.723335550352374
+        ],
+        "type": "Point"
+      },
+      "id": 0
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Belgium"
+      },
+      "geometry": {
+        "coordinates": [
+          4.619326766823633,
+          50.44876174662724
+        ],
+        "type": "Point"
+      },
+      "id": 1
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brazil"
+      },
+      "geometry": {
+        "coordinates": [
+          -51.82590463084199,
+          -9.544807186618158
+        ],
+        "type": "Point"
+      },
+      "id": 2
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Egypt"
+      },
+      "geometry": {
+        "coordinates": [
+          29.823064109146515,
+          26.508221102620965
+        ],
+        "type": "Point"
+      },
+      "id": 3
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Indonesia"
+      },
+      "geometry": {
+        "coordinates": [
+          106.8266099154992,
+          -6.192918211207299
+        ],
+        "type": "Point"
+      },
+      "id": 4
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Italy"
+      },
+      "geometry": {
+        "coordinates": [
+          12.6233701499998,
+          42.58403417041174
+        ],
+        "type": "Point"
+      },
+      "id": 5
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Japan"
+      },
+      "geometry": {
+        "coordinates": [
+          138.4692014918743,
+          36.40891037623503
+        ],
+        "type": "Point"
+      },
+      "id": 6
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mexico"
+      },
+      "geometry": {
+        "coordinates": [
+          -102.5377984000001,
+          23.922034777760956
+        ],
+        "type": "Point"
+      },
+      "id": 7
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "New Zealand"
+      },
+      "geometry": {
+        "coordinates": [
+          171.78386882029145,
+          -41.89768205407574
+        ],
+        "type": "Point"
+      },
+      "id": 8
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nigeria"
+      },
+      "geometry": {
+        "coordinates": [
+          8.105860877772699,
+          9.592653911697568
+        ],
+        "type": "Point"
+      },
+      "id": 9
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Philippines"
+      },
+      "geometry": {
+        "coordinates": [
+          120.94258363589404,
+          14.596223633498823
+        ],
+        "type": "Point"
+      },
+      "id": 10
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Russia"
+      },
+      "geometry": {
+        "coordinates": [
+          96.71628662456789,
+          61.942890055944105
+        ],
+        "type": "Point"
+      },
+      "id": 11
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Singapore"
+      },
+      "geometry": {
+        "coordinates": [
+          103.80613404560268,
+          1.3454486918739832
+        ],
+        "type": "Point"
+      },
+      "id": 12
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Spain"
+      },
+      "geometry": {
+        "coordinates": [
+          -4.057731801223781,
+          41.402827934259165
+        ],
+        "type": "Point"
+      },
+      "id": 13
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thailand"
+      },
+      "geometry": {
+        "coordinates": [
+          100.98786952594253,
+          15.126893038170834
+        ],
+        "type": "Point"
+      },
+      "id": 14
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "UAE"
+      },
+      "geometry": {
+        "coordinates": [
+          54.241046529777975,
+          23.874041460673368
+        ],
+        "type": "Point"
+      },
+      "id": 15
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -98.02055694768134,
+          39.44118008530225
+        ],
+        "type": "Point"
+      },
+      "id": 16
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vietnam"
+      },
+      "geometry": {
+        "coordinates": [
+          108.28418511718706,
+          14.478170620807248
+        ],
+        "type": "Point"
+      },
+      "id": 17
+    }
+  ]
+}
